@@ -52,7 +52,7 @@ I once built a complete transaction system with **Moov** and **Orange Money APIs
 ## 🧰 Tech Stack
 ```bash
 - Backend: Laravel, Spring Boot, Node.js
-- Frontend: Blade, React, Bootstrap, Tailwind
+- Frontend: Blade, React, Bootstrap, Tailwind,Angular
 - Mobile: Ionic, Flutter (in progress)
 - Database: MySQL, PostgreSQL, MongoDB
 - Tools: Git, Postman, VS Code, IntelliJ, Docker
